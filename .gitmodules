@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tglkmeans"]
+	path = tglkmeans
+	url = https://github.com/tanaylab/tglkmeans
+	shallow = true
+	registered = true
+[submodule "tgstat"]
+	path = tgstat
+	url = https://github.com/tanaylab/tgstat
+	shallow = true
+	registered = true

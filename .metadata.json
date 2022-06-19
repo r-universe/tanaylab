@@ -1,0 +1,10 @@
+[
+  {
+    "package": "tglkmeans",
+    "oncran": true
+  },
+  {
+    "package": "tgstat",
+    "oncran": true
+  }
+]
