@@ -1,5 +1,9 @@
 [
   {
+    "package": "naryn",
+    "oncran": true
+  },
+  {
     "package": "tglkmeans",
     "oncran": true
   },
