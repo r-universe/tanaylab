@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "labNorm"]
+	path = labNorm
+	url = https://github.com/tanaylab/labnorm
+	shallow = true
+	registered = true
 [submodule "naryn"]
 	path = naryn
 	url = https://github.com/tanaylab/naryn

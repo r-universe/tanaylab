@@ -1,5 +1,9 @@
 [
   {
+    "package": "labNorm",
+    "oncran": true
+  },
+  {
     "package": "naryn",
     "oncran": true
   },
