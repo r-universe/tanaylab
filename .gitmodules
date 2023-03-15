@@ -8,13 +8,13 @@
 	url = https://github.com/tanaylab/naryn
 	shallow = true
 	registered = true
-[submodule "tgstat"]
-	path = tgstat
-	url = https://github.com/tanaylab/tgstat
-	shallow = true
-	registered = true
 [submodule "tglkmeans"]
 	path = tglkmeans
 	url = https://github.com/tanaylab/tglkmeans
+	shallow = true
+	registered = true
+[submodule "tgstat"]
+	path = tgstat
+	url = https://github.com/tanaylab/tgstat
 	shallow = true
 	registered = true
