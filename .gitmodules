@@ -8,6 +8,11 @@
 	url = https://github.com/tanaylab/naryn
 	shallow = true
 	registered = true
+[submodule "slanter"]
+	path = slanter
+	url = https://github.com/tanaylab/slanter
+	shallow = true
+	registered = true
 [submodule "tglkmeans"]
 	path = tglkmeans
 	url = https://github.com/tanaylab/tglkmeans
