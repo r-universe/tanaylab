@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "tglkmeans",
+    "package": "tgstat",
     "oncran": true
   },
   {
-    "package": "tgstat",
+    "package": "tglkmeans",
     "oncran": true
   }
 ]
