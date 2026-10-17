@@ -11,6 +11,9 @@
 [submodule "naryn"]
 	path = naryn
 	url = https://github.com/tanaylab/naryn
+[submodule "shaman"]
+	path = shaman
+	url = https://github.com/tanaylab/shaman
 [submodule "slanter"]
 	path = slanter
 	url = https://github.com/tanaylab/slanter
